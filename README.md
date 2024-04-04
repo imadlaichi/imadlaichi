@@ -14,10 +14,6 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=imadlaichi&show_icons=true&title_color=fff&icon_color=ffffff&text_color=ffffff&bg_color=151515" alt="Imad Github Stats" />
 </p>
 
-<h3 align="left">Conect with me:</h3>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=imadlaichi&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="imadlaichi" /></p>
-
 - 🔭 I’m currently working on **My Portofolio**
 
 - 🌱 I’m currently learning **Next Js and Python**
@@ -31,7 +27,9 @@
 - 📫 How to reach me: **laichi.personal@gmail.com**
 
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=imadlaichi&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="imadlaichi" /></p>
 
+<h3 align="left">Conect with me:</h3>
 
 <p align="left">
 <a href="https://twitter.com/imadlaichi8659" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imadlaichi8659" height="30" width="40" /></a>
