@@ -54,8 +54,6 @@
 <h3 align="left">Projects:</h3>
 <p>
     ‎
-- I am currently working at New Prime University where I make websites for both Prime and clients who ask us for Ecommerce websites, Portfolios, Blogs...
-
-</p>
+- I am currently working at New Prime University where I make websites for both Prime and clients who ask us for Ecommerce websites, Portfolios, Blogs...</p>
 
 
