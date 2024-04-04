@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imadlaichi&label=Profile%20views&color=0e75b6&style=flat" alt="imadlaichi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imadlaichi" alt="imadlaichi" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 <p align="left"> <a href="https://twitter.com/imadlaichi8659" target="blank"><img src="https://img.shields.io/twitter/follow/imadlaichi8659?logo=twitter&style=for-the-badge" alt="imadlaichi8659" /></a> </p>
 
 - 🔭 Actualmente estoy trabajando en **Mi Portofolio**
