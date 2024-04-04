@@ -13,7 +13,7 @@
 <p align="left">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=imadlaichi&show_icons=true&title_color=fff&icon_color=ffffff&text_color=ffffff&bg_color=151515" alt="Imad Github Stats" />
 </p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=imadlaichi&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="imadlaichi" /></p>
+<p><img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=imadlaichi&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="imadlaichi" /></p>
 <h3 align="left">Conect with me:</h3>
 
 - 🔭 I’m currently working on **My Portofolio**
