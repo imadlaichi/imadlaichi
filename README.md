@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imadlaichi&label=Profile%20views&color=0e75b6&style=flat" alt="imadlaichi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imadlaichi" alt="imadlaichi" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+![Imad Github Stats](https://github-readme-stats.vercel.app/api?username=imadlaichi&show_icons=true&title_color=fff&icon_color=ffffff&text_color=ffffff&bg_color=151515)
 <p align="left"> <a href="https://twitter.com/imadlaichi8659" target="blank"><img src="https://img.shields.io/twitter/follow/imadlaichi8659?logo=twitter&style=for-the-badge" alt="imadlaichi8659" /></a> </p>
 
 - 🔭 Actualmente estoy trabajando en **Mi Portofolio**
@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imadlaichi&show_icons=true&locale=e&color=fff&icon_color=79ff97&text_color=9f9f9fn&bg_color=151515" alt="imadlaichi" /></p>
 
-![Imad Github Stats](https://github-readme-stats.vercel.app/api?username=imadlaichi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
