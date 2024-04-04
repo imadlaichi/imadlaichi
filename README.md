@@ -22,7 +22,7 @@
 
 - 🤝 I’m looking for help with **Developing a habits app**
 
-- 📝 I regularly write articles on [Instagram, X y Linkedin](Instagram, X y Linkedin)
+- 📝 I regularly write articles on **Instagram, X and Linkedin**
 
 - 📫 How to reach me**laichi.personal@gmail.com**
 
@@ -40,5 +40,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imadlaichi&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="imadlaichi" /></p>
 
-<h3 align="left">Projects</h3>
 
