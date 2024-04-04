@@ -46,12 +46,16 @@
 
 <h3 align="left">About me:</h3>
 <p align="left">
+
 - I am Imad, an 18-year-old student passionate about entrepreneurship and technology, currently residing in Spain. My fascination with programming and design has led me to immerse myself in the world of software development.
 
 - As I advance in my educational and professional journey, I fully intend to continue cultivating my skills. In the near future, I aspire to enter university to obtain a degree in Computer Engineering, where I hope to gain deeper and specialized knowledge that will allow me to continue contributing to the technological world in a meaningful way.</p>
 
 <h3 align="left">Projects:</h3>
-<p>‎
-- I am currently working at New Prime University where I make websites for both Prime and clients who ask us for Ecommerce websites, Portfolios, Blogs...</p>
+<p>
+    ‎
+- I am currently working at New Prime University where I make websites for both Prime and clients who ask us for Ecommerce websites, Portfolios, Blogs...
+
+</p>
 
 
