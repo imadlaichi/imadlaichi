@@ -1,10 +1,10 @@
 [![MasterHead](https://static.vecteezy.com/system/resources/previews/016/828/119/non_2x/background-of-the-topographic-map-vintage-outdoors-style-geographic-abstract-grid-line-topography-map-contour-background-free-vector.jpg)
 
-<h1 align="center">¡Hola! 👋, Soy Imad Imad</h1>
-<h3 align="center">Un apasionado desarollador</h3>
+<h1 align="center">¡Hi! 👋, I'm Imad</h1>
+<h3 align="center">A pasionate programer and software developer</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imadlaichi&label=Profile%20views&color=0e75b6&style=flat" alt="imadlaichi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=imadlaichi&label=Profile%20views&color=0e75b6&style=flat" alt="imadlaichi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imadlaichi" alt="imadlaichi" /></a> </p>
 
