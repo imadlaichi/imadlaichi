@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imadlaichi&show_icons=true&locale=e&color=fff&icon_color=79ff97&text_color=9f9f9fn&bg_color=151515" alt="imadlaichi" /></p>
 
-![Imad Github Stats](https://github-readme-stats.vercel.app/api?username=imadlaichi_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Imad Github Stats](https://github-readme-stats.vercel.app/api?username=imadlaichi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
