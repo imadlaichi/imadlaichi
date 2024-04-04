@@ -26,8 +26,10 @@
 
 - 📫 How to reach me**laichi.personal@gmail.com**
 
-<h3 align="left">Conect with me:</h3>
+
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=imadlaichi&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="imadlaichi" /></p>
+<h3 align="left">Conect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/imadlaichi8659" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imadlaichi8659" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imad laichi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imad laichi" height="30" width="40" /></a>
