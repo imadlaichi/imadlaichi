@@ -4,9 +4,9 @@
 <h3 align="center">A pasionate programer and software developer</h3>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imadlaichi&label=Profile%20views&&no-bg=true" alt="imadlaichi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=imadlaichi&label=Profile%20views" alt="imadlaichi" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imadlaichi&bg_color=151515" alt="imadlaichi" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-imadlaichi&no-bg=true" alt="imadlaichi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/imadlaichi8659" target="blank"><img src="https://img.shields.io/twitter/follow/imadlaichi8659?logo=twitter&style=for-the-badge" alt="imadlaichi8659" /></a> </p>
 
