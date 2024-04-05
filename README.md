@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imadlaichi&label=Profile%20views" alt="imadlaichi" /> </p>
 
-<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=imadlaichi" alt="imadlaichi" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=imadlaichi" alt="imadlaichi" ></a> </p>
 
 <p align="left"> <a href="https://twitter.com/imadlaichi8659" target="blank"><img src="https://img.shields.io/twitter/follow/imadlaichi8659?logo=twitter&style=for-the-badge" alt="imadlaichi8659" /></a> </p>
 
