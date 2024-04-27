@@ -1,4 +1,4 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/016/828/119/non_2x/background-of-the-topographic-map-vintage-outdoors-style-geographic-abstract-grid-line-topography-map-contour-background-free-vector.jpg)
+
 
 <h1 align="center">¡Hi! 👋, I'm Imad</h1>
 <h3 align="center">A pasionate programer and software developer</h3>
